@@ -105,11 +105,6 @@ Users can:
 
 Add your Power BI dashboard screenshot here:
 
-<img width="1158" height="651" alt="Screenshot 2026-09-17 141107" src="https://github.com/user-attachments/assets/1e1ba854-9d27-4d9d-839e-ac8d98100a0a" />
-<img width="1157" height="653" alt="Screenshot 2026-09-17 141123" src="https://github.com/user-attachments/assets/f22c2998-fa80-494f-9d65-5f7a82773674" />
-
-
-
 ![PhonePe Power BI Dashboard](images/phonepe_dashboard.png)
 
 📈 Important Business Insights
