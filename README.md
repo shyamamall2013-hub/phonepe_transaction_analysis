@@ -19,7 +19,7 @@ The dataset contains PhonePe transaction data used to analyze digital payment pe
 - Time period
 - Payment-related metrics
 
-[📥 Download Dataset]([./Dataset/Phonepe-Final-Dataset.xlsx](https://github.com/shyamamall2013-hub/phonepe_transaction_analysis/blob/main/Phonepe-Final-Dataset.xlsx))
+[📥 Download Dataset]()
 
 The raw dataset was imported into Power BI and transformed using Power Query before being used for analysis and visualization.
 
@@ -106,7 +106,7 @@ Users can:
 Add your Power BI dashboard screenshot here:
 
 ![PhonePe Power BI Dashboard](https://github.com/shyamamall2013-hub/phonepe_transaction_analysis/blob/main/Overview.png)
-![PhonePe Power BI Dashboard]()
+![PhonePe Power BI Dashboard](https://github.com/shyamamall2013-hub/phonepe_transaction_analysis/blob/main/MOM%20Analysis.png)
 
 📈 Important Business Insights
 
