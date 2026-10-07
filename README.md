@@ -1,6 +1,5 @@
 ## phonepe_transactions_analysis
 this project analyses transaction data to understand transaction volume, transaction value, payment trends, customer behavior and transaction success/failure patterns.
-📱 PhonePe Transactions Analysis — Power BI Dashboard
 
 📌 Overview
 
