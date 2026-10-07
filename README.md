@@ -103,8 +103,6 @@ Users can:
 
   [📥 Download Power BI Dashboard](https://github.com/shyamamall2013-hub/phonepe_transaction_analysis/blob/main/phonepe_transactions_analysis.pbix)
 
-Add your Power BI dashboard screenshot here:
-
 ![PhonePe Power BI Dashboard](https://github.com/shyamamall2013-hub/phonepe_transaction_analysis/blob/main/Overview.png)
 ![PhonePe Power BI Dashboard](https://github.com/shyamamall2013-hub/phonepe_transaction_analysis/blob/main/MOM%20Analysis.png)
 
