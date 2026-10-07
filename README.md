@@ -101,6 +101,8 @@ Users can:
 - View additional information using custom tooltips.
 - Dashboard Preview
 
+  [📥 Download Power BI Dashboard](./dashboard/phonepe_transactions_analysis.pbix)
+
 Add your Power BI dashboard screenshot here:
 
 <img width="1158" height="651" alt="Screenshot 2026-09-17 141107" src="https://github.com/user-attachments/assets/1e1ba854-9d27-4d9d-839e-ac8d98100a0a" />
