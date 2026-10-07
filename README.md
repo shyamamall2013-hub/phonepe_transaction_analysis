@@ -101,7 +101,7 @@ Users can:
 - View additional information using custom tooltips.
 - Dashboard Preview
 
-  [📥 Download Power BI Dashboard](./dashboard/phonepe_transactions_analysis.pbix)
+  [📥 Download Power BI Dashboard](https://github.com/shyamamall2013-hub/phonepe_transaction_analysis/blob/main/phonepe_transactions_analysis.pbix)
 
 Add your Power BI dashboard screenshot here:
 
