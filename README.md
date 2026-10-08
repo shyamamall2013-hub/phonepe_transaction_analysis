@@ -4,9 +4,7 @@ This project analyses transaction data to understand transaction volume, transac
 📌 Overview
 
 This project focuses on analyzing PhonePe transaction data using Microsoft Power BI to uncover transaction trends, business performance, and key insights.
-
 The project follows an end-to-end data analytics workflow, including data loading, data cleaning with Power Query, data modeling, KPI development using DAX, Month-over-Month (MoM) analysis, and interactive dashboard development.
-
 The final dashboard enables users to explore transaction performance through interactive visuals, filters, drill-through pages, and report page tooltips.
 
 📂 Dataset
@@ -41,6 +39,7 @@ The raw dataset was imported into Power BI and transformed using Power Query bef
 - Examined the dataset for data-quality issues.
 
 2. Data Cleaning & Transformation
+   
 Used Power Query to prepare the dataset for analysis:
 
 - Removed duplicate records.
@@ -52,12 +51,14 @@ Used Power Query to prepare the dataset for analysis:
 - Prepared the data for modeling and visualization.
 
 3. Data Modeling
+   
 Created a structured Power BI data model to support accurate analysis.
 
 - Established relationships between tables.
 - Defined appropriate relationship cardinality.
 
 4. KPI Development Using DAX
+   
 Created DAX measures to calculate important transaction KPIs, including:
 
 - Total Transaction Count
@@ -69,12 +70,14 @@ Created DAX measures to calculate important transaction KPIs, including:
 The DAX measures allow KPIs to update dynamically based on user selections and dashboard filters.
 
 5. Month-over-Month (MoM) Analysis
+   
 Performed Month-over-Month analysis to understand changes in PhonePe transaction performance over time.
 
 - The analysis helps identify:
 - Monthly transaction trends
 
 6. Interactive Dashboard Development
+   
 Developed an interactive Power BI dashboard containing:
 
 - KPI cards
@@ -89,6 +92,7 @@ Developed an interactive Power BI dashboard containing:
 Drill-through functionality allows users to navigate from summary-level insights to detailed transaction analysis, while tooltips provide additional context when hovering over visual elements.
 
 📊 Dashboard
+
 The final dashboard provides an interactive view of PhonePe transaction performance.
 Users can:
 
