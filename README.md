@@ -1,5 +1,5 @@
-## phonepe_transactions_analysis
-this project analyses transaction data to understand transaction volume, transaction value, payment trends, customer behavior and transaction success/failure patterns.
+## phonepe_transactions_analysis_power bi
+This project analyses transaction data to understand transaction volume, transaction value, payment trends, customer behavior and transaction success/failure patterns.
 
 📌 Overview
 
