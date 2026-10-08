@@ -1,9 +1,9 @@
-## phonepe_transactions_analysis_power bi
+## Phonepe Transactions Analysis
 This project analyses transaction data to understand transaction volume, transaction value, payment trends, customer behavior and transaction success/failure patterns.
 
 📌 Overview
 
-This project focuses on analyzing PhonePe transaction data using Microsoft Power BI to uncover transaction trends, business performance, and key insights.
+This project focuses on analyzing PhonePe transaction data using Power BI to uncover transaction trends, business performance, and key insights.
 The project follows an end-to-end data analytics workflow, including data loading, data cleaning with Power Query, data modeling, KPI development using DAX, Month-over-Month (MoM) analysis, and interactive dashboard development.
 The final dashboard enables users to explore transaction performance through interactive visuals, filters, drill-through pages, and report page tooltips.
 
@@ -23,12 +23,15 @@ The raw dataset was imported into Power BI and transformed using Power Query bef
 
 🛠️ Tools & Technologies
 
-📊 Microsoft Power BI
+📊 Power BI
+
 🔄 Power Query
+
 📐 DAX
+
 🗂️ Data Modeling
+
 📈 Data Visualization
-📱 PhonePe Transaction Dataset
 
 🔄 Project Steps
 
@@ -40,7 +43,7 @@ The raw dataset was imported into Power BI and transformed using Power Query bef
 
 2. Data Cleaning & Transformation
    
-Used Power Query to prepare the dataset for analysis:
+ Used Power Query to prepare the dataset for analysis:
 
 - Removed duplicate records.
 - Handled missing and blank values.
@@ -52,14 +55,14 @@ Used Power Query to prepare the dataset for analysis:
 
 3. Data Modeling
    
-Created a structured Power BI data model to support accurate analysis.
+ Created a structured Power BI data model to support accurate analysis.
 
 - Established relationships between tables.
 - Defined appropriate relationship cardinality.
 
 4. KPI Development Using DAX
    
-Created DAX measures to calculate important transaction KPIs, including:
+ Created DAX measures to calculate important transaction KPIs, including:
 
 - Total Transaction Count
 - Total Transaction Value
@@ -67,18 +70,18 @@ Created DAX measures to calculate important transaction KPIs, including:
 - Month-over-Month (MoM) Growth
 - Transaction performance by category and period
 
-The DAX measures allow KPIs to update dynamically based on user selections and dashboard filters.
+ The DAX measures allow KPIs to update dynamically based on user selections and dashboard filters.
 
 5. Month-over-Month (MoM) Analysis
    
-Performed Month-over-Month analysis to understand changes in PhonePe transaction performance over time.
+ Performed Month-over-Month analysis to understand changes in PhonePe transaction performance over time.
 
 - The analysis helps identify:
 - Monthly transaction trends
 
 6. Interactive Dashboard Development
    
-Developed an interactive Power BI dashboard containing:
+ Developed an interactive Power BI dashboard containing:
 
 - KPI cards
 - Transaction value analysis
@@ -89,7 +92,7 @@ Developed an interactive Power BI dashboard containing:
 - Drill-through pages
 - Report page tooltips
 
-Drill-through functionality allows users to navigate from summary-level insights to detailed transaction analysis, while tooltips provide additional context when hovering over visual elements.
+ Drill-through functionality allows users to navigate from summary-level insights to detailed transaction analysis, while tooltips provide additional context when   hovering over visual elements.
 
 📊 Dashboard
 
